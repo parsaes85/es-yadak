@@ -1,0 +1,6 @@
+{
+  "name": "esyadak | فروشگاه تخصصی لوازم یدکی خودرو ای‌اس یدک",
+  "description": "فروشگاه آنلاین و جامع قطعات و لوازم یدکی خودرو esyadak - سیستم ترمز، موتوری، جلوبندی و برقی با ضمانت اصالت کالا.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
