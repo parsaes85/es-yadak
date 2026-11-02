@@ -57,10 +57,10 @@ export default function CartDrawer() {
   const remainingForFree = Math.max(0, freeShippingThreshold - subtotal);
 
   return (
-    <div className="fixed inset-0 z-50 flex justify-end">
-      {/* Backdrop */}
+    <div className="fixed inset-0 top-0 bottom-0 right-0 left-0 h-dvh min-h-screen w-full z-50 flex justify-end overflow-hidden">
+      {/* Backdrop - full height blur */}
       <div
-        className="fixed inset-0 bg-slate-950/60 backdrop-blur-sm transition-opacity"
+        className="fixed inset-0 top-0 bottom-0 right-0 left-0 h-dvh min-h-screen w-full bg-slate-950/60 backdrop-blur-md transition-opacity"
         onClick={() => setIsCartOpen(false)}
       />
 

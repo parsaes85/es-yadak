@@ -43,9 +43,9 @@ export default function ContactPage() {
     <div className="space-y-10 max-w-5xl mx-auto">
       {/* Header */}
       <div className="text-center space-y-2 max-w-xl mx-auto">
-        <h1 className="text-2xl sm:text-3xl font-black text-slate-900">تماس با کارشناسان esyadak</h1>
+        <h1 className="text-2xl sm:text-3xl font-black text-slate-900">تماس با کارشناسان ای‌اس یدک</h1>
         <p className="text-xs sm:text-sm text-slate-500">
-          مشاوره رایگان خرید، استعلام موجودی انبار مرکزی esyadak و پیگیری مرسولات ارسالی
+          مشاوره رایگان خرید، استعلام موجودی انبار مرکزی ای‌اس یدک و پیگیری مرسولات ارسالی
         </p>
       </div>
 

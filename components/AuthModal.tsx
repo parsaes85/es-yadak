@@ -107,7 +107,7 @@ export default function AuthModal() {
               />
             </div>
             <div>
-              <h3 className="font-bold text-sm">حساب کاربری esyadak</h3>
+              <h3 className="font-bold text-sm">حساب کاربری ای‌اس یدک</h3>
               <p className="text-[11px] text-slate-400">ورود سریع و دسترسی به فاکتورها و کیف پول</p>
             </div>
           </div>
@@ -306,7 +306,7 @@ export default function AuthModal() {
                     <span>در حال ایجاد حساب...</span>
                   </>
                 ) : (
-                  <span>ثبت‌نام و عضویت در esyadak</span>
+                  <span>ثبت‌نام و عضویت در ای‌اس یدک</span>
                 )}
               </button>
             </form>

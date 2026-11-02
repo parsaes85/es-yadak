@@ -48,13 +48,13 @@ export default function Footer() {
                 />
               </div>
               <div>
-                <span className="text-xl font-black text-white block font-sans tracking-tight">esyadak</span>
-                <span className="text-xs text-slate-400">ای‌اس یدک | فروشگاه تخصصی لوازم یدکی خودرو</span>
+                <span className="text-xl font-black text-white block tracking-tight">ای‌اس یدک</span>
+                <span className="text-xs text-slate-400">فروشگاه تخصصی لوازم یدکی خودرو</span>
               </div>
             </div>
 
             <p className="text-xs text-slate-400 leading-relaxed text-justify max-w-md">
-              فروشگاه اینترنتی esyadak به عنوان مرجع آنلاین تامین قطعات یدکی انواع خودروهای ایرانی (ایران‌خودرو و سایپا)
+              فروشگاه اینترنتی ای‌اس یدک به عنوان مرجع آنلاین تامین قطعات یدکی انواع خودروهای ایرانی (ایران‌خودرو و سایپا)
               و خودروهای وارداتی (هیوندای، کیا، رنو و چینی)، اصالت ۱۰۰٪ فیزیکی کلیه قطعات سیستم ترمز،
               موتوری، جلوبندی، تعلیق و مصرفی را با فاکتور رسمی و ضمانت ۷ روزه بازگشت وجه تضمین می‌نماید.
             </p>
@@ -128,7 +128,7 @@ export default function Footer() {
               <li>
                 <Link href="/about" className="hover:text-amber-400 transition-colors flex items-center gap-1">
                   <ChevronLeft className="w-3 h-3 text-slate-600" />
-                  <span>درباره esyadak</span>
+                  <span>درباره ای‌اس یدک</span>
                 </Link>
               </li>
             </ul>
@@ -205,7 +205,7 @@ export default function Footer() {
 
         {/* Bottom Copyright */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-3">
-          <p>© تمامی حقوق مادی و معنوی این وبسایت متعلق به فروشگاه لوازم یدکی esyadak (esyadak.com) می‌باشد.</p>
+          <p>© تمامی حقوق مادی و معنوی این وبسایت متعلق به فروشگاه لوازم یدکی ای‌اس یدک (esyadak.com) می‌باشد.</p>
           <div className="flex items-center gap-4 text-slate-400">
             <span>esyadak.com</span>
             <span>·</span>
